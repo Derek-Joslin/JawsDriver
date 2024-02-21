@@ -1,0 +1,2 @@
+C:\Users\derek\Documents\C++BrailleDriver\NhJawsDriver\x64\Debug\SampleBrailleDriver.jlb
+C:\Users\derek\Documents\ProteusDriverOfficial\x64\Debug\SampleBrailleDriver.jlb
